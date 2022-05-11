@@ -1,7 +1,7 @@
 const guard = require('./../guard');
 const github = require('./github');
 const openWeather = require('./openWeather');
-const wikipediaDayPerDay = require('./wikipedia-day-per-day');
+const wikipediaDayPerDay = require('./wikipediaDayPerDay');
 
 const plugins = {
   github,
