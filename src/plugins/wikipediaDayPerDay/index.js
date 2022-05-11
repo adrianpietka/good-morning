@@ -2,7 +2,7 @@ const moment = require('moment');
 const axios = require('axios').default;
 const { JSDOM } = require('jsdom');
 
-const eventModel = require('./../../models/event');
+const eventModel = require('../../models/event');
 
 const months = {
   1: 'stycznia',
