@@ -1,0 +1,17 @@
+{
+  "name": "good-morning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Pietka <adrian@devenv.pl>",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.0",
+    "jsdom": "^19.0.0",
+    "moment": "^2.29.3"
+  }
+}
